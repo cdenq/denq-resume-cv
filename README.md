@@ -1,4 +1,4 @@
 # denq-resume
-Public resume for Christopher Denq. Updated 4/7/22.
+Public resume for Christopher Denq. Updated 5/17/22.
 
 Contact: christopherdenq@gmail.com
